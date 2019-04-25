@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeatherBugAssignment</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="IMAGES">Images</string>
+    <string name="UNEXPECTED_ERROR">Unexpected error occurs</string>
+    <string name="NETWORK_ERROR">Network not available</string>
+    <string name="EXITING">Exiting...</string>
+    <string name="OK">OK</string>
+</resources>
